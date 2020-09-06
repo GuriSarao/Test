@@ -1,0 +1,33 @@
+{
+    "data": {
+
+        "Daily Title": [
+                    {
+                    "title": "Huckleberry Finn",
+                    "Description": "finn",
+                    "Date":""
+                    }
+                    ],
+        "Daily Title": [
+                              {
+                              "title": "Huckleberry Finn",
+                              "Description": "finn",
+                              "Date":""
+                              },
+                              {
+                              "title": "Huckleberry Finn",
+                              "Description": "finn",
+                              "Date":""
+                              }
+                              ],
+        "Daily Title": [
+        {
+        "title": "Huckleberry Finn",
+        "Description": "finn",
+        "Date":""
+        }
+        ]
+    },
+    "error": 0,
+    "message": "Success"
+}
